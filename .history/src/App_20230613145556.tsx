@@ -1,8 +1,7 @@
 import React from 'react';
 import Modal from './components/Modal';
 import Header from './components/Header'
-import Home from './components/Home/home';
-
+import { Grid } from '@mui/material';
 
 function App() {
   return (
@@ -10,9 +9,9 @@ function App() {
       <header className="App-header">
         <Header />
         <Modal/>
-        <Home/>
       </header>
-     </div>
+         <
+      </div>
   );
 }
 

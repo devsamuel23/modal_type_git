@@ -1,7 +1,7 @@
 import React from 'react';
 import Modal from './components/Modal';
 import Header from './components/Header'
-import Home from './components/Home/home';
+import Home from './components/';
 
 
 function App() {
